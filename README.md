@@ -11,7 +11,7 @@ Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 Die in der Schaltung genutzten Transistoren sind "NPN" Transistortypen (Pfeil nach außen). Die Spannung bei NPN-Transistoren muss an B +0,7V größer gegenüber E sein, damit der NPN-Transistor durchschaltet, wobei gilt: K benötigt eine positivere Spannung als E.
 
 Ist die Alarmschleife <b>nicht</b> unterbrochen, bringt R3 über R1 und die LED eine Spannung von >0,7V an die Basis von T2. 
-T2 ist deshalb leitend und hat einen geringen Widerstand zwischen E (Emitter) und K (Kollektor). Damit hat B, die Basis von T1 eine Spannung von <0,7V, und sperrt. Die LED leuchtet nicht.
+T2 ist deshalb leitend und hat einen geringen Widerstand zwischen E (Emitter) und K (Kollektor). Damit hat B, die Basis von T1 eine Spannung von <0,7V und sperrt. Die LED leuchtet nicht.
 
 Im Alarmfall ist die Alarmschleife unterbrochen und die Spannung an B von T2 geht auf etwa 0Volt, damit sperrt T2. Wenn T2 sperrt, ist sein Widerstand wesentlich größer als R2 (22kOhm), weshalb über R2 dann eine Spannung >0,7 Volt an die Basis von T1 gelangt, dieser schaltet durch und die LED leuchtet.
 
