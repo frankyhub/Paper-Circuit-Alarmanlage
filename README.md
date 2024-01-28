@@ -1,7 +1,7 @@
 # Paper-Circuit-Alarmanlage
 Einfache Alarmanlage mit zwei Transistoren und einer LED
 
-Nach einer Idee von [Alex Kutschera](https://github.com/AlexKutschera)
+Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
 ![Schaltplan](/pic/Schaltplan.png)
 
