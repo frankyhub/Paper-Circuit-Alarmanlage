@@ -1,6 +1,10 @@
 # Paper-Circuit-Alarmanlage
 Einfache Alarmanlage mit zwei Transistoren und einer LED
 
+![Schaltplan](/pic/Schaltplan.png)
+
+
+
 ## Funktinon
 Die in der Schaltung genutzten Transistoren sind "NPN" Transistortypen (Pfeil nach außen). Die Spannung an B muss +0,7V gegenüber E sein, damit der Transistor durchschaltet, wobei gilt K benötigt eine positivere Spannung als E.
 Im Alarmfall wird die Alarmschleife unterbrochen. Ist die Alarmschleife nicht unterbrochen, bringt R3 über R1 und die LED eine Spannung von > 0,7V an die Basis von T2. 
