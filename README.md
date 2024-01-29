@@ -19,6 +19,10 @@ Auch ein erneutes verbinden der Unterbrechung in der Alarmschleife bringt kein a
 Erst die Betätigung des Tasters S1 nach dem wiederverbinden der Alarmschleife setzt die Schaltung wieder auf "bereit".
 
 
+## Paper Circuit
+![PaperCircuit](/pic/Paper-Circuit.png)
+
+
 ----
 ----
 
