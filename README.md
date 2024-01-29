@@ -27,7 +27,7 @@ Erst die Betätigung des Tasters S1 nach dem wiederverbinden der Alarmschleife s
 
 ## BOM
 
-| Spalte 1 | Spalte 2 |
+| Stück | Bezeichnung |
 | -------- | -------- | 
 | 1        | 9V Clipp       | 
 | 1        | 9V Batterie        | 
