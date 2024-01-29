@@ -22,6 +22,9 @@ Erst die Betätigung des Tasters S1 nach dem wiederverbinden der Alarmschleife s
 
 
 ## Paper Circuit
+
+Verwende beidseitig leitendes CU-Klebeband.
+
 ![PaperCircuit](/pic/Paper-Circuit.png)
 
 
