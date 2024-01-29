@@ -22,7 +22,23 @@ Erst die Betätigung des Tasters S1 nach dem wiederverbinden der Alarmschleife s
 ## Paper Circuit
 ![PaperCircuit](/pic/Paper-Circuit.png)
 
-[Taster](https://www.amazon.de/dp/B00SPUPVGU/?coliid=IHH4IX8I4SJ2L&colid=4ZNEYUX0MP5W&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
+
+
+
+## BOM
+
+| Spalte 1 | Spalte 2 |
+| -------- | -------- | 
+| 1        | 9V Clipp       | 
+| 1        | 9V Batterie        | 
+| 1        | R 470k        | 
+| 1        | R 22k       | 
+| 1        | R 1M        |
+| 1        | LED 5mm rot        |
+|2         | BC548       |
+| 1        | [Taster](https://www.amazon.de/dp/B00SPUPVGU/?coliid=IHH4IX8I4SJ2L&colid=4ZNEYUX0MP5W&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)      |
+| 1        | Schaltdraht        |
+| 1        | CU-Band       |
 
 ----
 ----
