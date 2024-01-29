@@ -22,6 +22,7 @@ Erst die Betätigung des Tasters S1 nach dem wiederverbinden der Alarmschleife s
 ## Paper Circuit
 ![PaperCircuit](/pic/Paper-Circuit.png)
 
+[Taster](https://www.amazon.de/dp/B00SPUPVGU/?coliid=IHH4IX8I4SJ2L&colid=4ZNEYUX0MP5W&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it_im)
 
 ----
 ----
