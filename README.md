@@ -3,6 +3,8 @@ Einfache Alarmanlage mit zwei Transistoren und einer LED
 
 Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
+## Schaltplan
+
 ![Schaltplan](/pic/Schaltplan.png)
 
 
