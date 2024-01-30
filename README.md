@@ -10,6 +10,7 @@ Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
 ![Schaltplan](/pic/Schaltplan.png)
 
+---
 
 ## Funktion
 
@@ -23,6 +24,7 @@ Im Alarmfall ist die Alarmschleife unterbrochen und die Spannung an B von T2 geh
 Auch ein erneutes verbinden der Unterbrechung in der Alarmschleife bringt kein abschalten der LED, da die Spannung am Kollektor von T1, an R3 und D1 fast 0Volt beträgt. An der Basis von T2 liegt keine Spannung >0,7Volt an, T2 sperrt deshalb. 
 Erst die Betätigung des Tasters S1 nach dem wiederverbinden der Alarmschleife setzt die Schaltung wieder auf "bereit".
 
+---
 
 ## Paper Circuit
 
@@ -31,8 +33,17 @@ Verwende beidseitig leitendes CU-Klebeband.
 ![PaperCircuit](/pic/Paper-Circuit.png)
 
 
-Widerstands-Rechner [Link](http://frankyhub.de/tools/html/calc_resistor.html)
+Farbcode der Widerstände:
 
+![R](/pic/22k.png)
+
+
+![R](/pic/470k.png)
+
+
+![R](/pic/1M.png)
+
+---
 
 ## BOM
 
