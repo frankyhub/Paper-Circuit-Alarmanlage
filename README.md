@@ -31,6 +31,7 @@ Verwende beidseitig leitendes CU-Klebeband.
 ![PaperCircuit](/pic/Paper-Circuit.png)
 
 
+Widerstands-Rechner [Link](http://frankyhub.de/tools/html/calc_resistor.html)
 
 
 ## BOM
