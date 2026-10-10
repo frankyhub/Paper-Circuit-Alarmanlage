@@ -54,7 +54,7 @@ Farbcode der Widerstände:
 <br> <br>
 
 
-<img src="pic/470.png" width="500"> 
+<img src="pic/470k.png" width="500"> 
 <br> <br>
 
 <img src="pic/1M.png" width="500"> 
