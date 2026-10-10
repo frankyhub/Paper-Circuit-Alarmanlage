@@ -2,11 +2,11 @@
 
 <div align="center">
 
-|[:skull:ISSUE](https://github.com/frankyhub/Paper-Circuit-Alarmanlage/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Paper-Circuit-Alarmanlage/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Paper-Circuit-Alarmanlage/wiki)||
+|[:skull:ISSUE](https://github.com/frankyhub/Zauberwuerfel/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Zauberwuerfel/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Zauberwuerfel/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2012-blue)|<a href="https://github.com/frankyhub/Paper-Circuit-Alarmanlage/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Paper-Circuit-Alarmanlage)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Paper-Circuit-Alarmanlage)|<a href="https://github.com/frankyhub/Paper-Circuit-Alarmanlage/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Paper-Circuit-Alarmanlage)|<a href="https://github.com/frankyhub/Paper-Circuit-Alarmanlage/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Paper-Circuit-Alarmanlage)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Paper-Circuit-Alarmanlage)| <a href="https://github.com/frankyhub/Paper-Circuit-Alarmanlage/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Paper-Circuit-Alarmanlage/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Zauberwuerfel/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Zauberwuerfel)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Zauberwuerfel)|<a href="https://github.com/frankyhub/Zauberwuerfel/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Zauberwuerfel)|<a href="https://github.com/frankyhub/Zauberwuerfel/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Zauberwuerfel)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2013-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Zauberwuerfel)| <a href="https://github.com/frankyhub/Zauberwuerfel/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Zauberwuerfel/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 </div>
 
 
@@ -20,7 +20,8 @@ Nach einer Idee von [Alex Kutschera](https://github.com/vektorious)
 
 ## Schaltplan
 
-![Schaltplan](/pic/Schaltplan.png)
+<img src="pic/Schaltplan.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -42,18 +43,22 @@ Erst die Betätigung des Tasters S1 nach dem wiederverbinden der Alarmschleife s
 
 Verwende beidseitig leitendes CU-Klebeband.
 
-![PaperCircuit](/pic/Paper-Circuit.png)
+<img src="pic/Paper-Circuit.png" width="500"> 
+<br> <br>
+
 
 
 Farbcode der Widerstände:
 
-![R](/pic/22k.png)
+<img src="pic/22k.png" width="500"> 
+<br> <br>
 
 
-![R](/pic/470k.png)
+<img src="pic/470.png" width="500"> 
+<br> <br>
 
-
-![R](/pic/1M.png)
+<img src="pic/1M.png" width="500"> 
+<br> <br>
 
 ---
 
